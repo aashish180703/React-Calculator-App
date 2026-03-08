@@ -1,0 +1,9 @@
+.container{
+    width: 250px;
+    padding: 20px;
+    border: 2px solid black;
+    color: black;
+    position: relative;
+    left: 40%;
+    background-color: rgb(15, 15, 15);
+}
